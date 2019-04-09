@@ -1,1 +1,7 @@
-
+body {
+    color: rgba(76, 0, 255, 0.74);
+    text-align: center;
+    background-color: rgb(15, 134, 128);
+}
+img {
+    width:25%;
